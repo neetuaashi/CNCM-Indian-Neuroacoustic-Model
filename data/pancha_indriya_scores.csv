@@ -1,0 +1,107 @@
+title,category,pancha_total,shrotra_score,ghrana_score,chakshu_score,tvak_score,jihva_score,audio_only,multimodal_gain
+Aditya Hridayam,Stotram,32.2,15.8,3.0,9.0,2.4,2.0,15.8,16.4
+Vishnu Sahasranamam,Stotram,29.92,13.52,3.0,9.0,2.4,2.0,13.52,16.4
+Shiva Tandava Stotram,Stotram,28.08,11.68,3.0,9.0,2.4,2.0,11.68,16.4
+Hanuman Chalisa,Bhajan,42.56,13.76,3.0,16.0,4.8,5.0,13.76,28.8
+Mahalakshmi Ashtakam,Stotram,33.32,16.92,3.0,9.0,2.4,2.0,16.92,16.4
+Durga Saptashloki,Stotram,47.52,21.72,10.0,9.0,4.8,2.0,21.72,25.8
+Lingashtakam,Stotram,32.6,16.2,3.0,9.0,2.4,2.0,16.2,16.4
+Rudrashtakam,Stotram,30.96,14.56,3.0,9.0,2.4,2.0,14.56,16.4
+Kanakadhara Stotram,Stotram,31.32,14.92,3.0,9.0,2.4,2.0,14.92,16.4
+Shiv Panchakshara Stotram,Stotram,37.92,21.52,3.0,9.0,2.4,2.0,21.52,16.4
+Om Jai Jagdish Hare,Bhajan,36.8,10.4,3.0,16.0,2.4,5.0,10.4,26.4
+Achyutam Keshavam,Bhajan,57.88,23.88,3.0,16.0,10.0,5.0,23.88,34.0
+Raghupati Raghava Raja Ram,Bhajan,53.76,19.76,3.0,16.0,10.0,5.0,19.76,34.0
+Jai Ganesh Jai Ganesh Deva,Bhajan,36.72,10.32,3.0,16.0,2.4,5.0,10.32,26.4
+Vaishnav Jan To,Bhajan,40.08,13.68,3.0,16.0,2.4,5.0,13.68,26.4
+Jai Ambe Gauri,Bhajan,38.4,12.0,3.0,16.0,2.4,5.0,12.0,26.4
+Mere Ghat Ko Banao,Bhajan,39.68,13.28,3.0,16.0,2.4,5.0,13.28,26.4
+Gayatri Mantra,Vedic,65.36,26.36,10.0,14.0,10.0,5.0,26.36,39.0
+Mahamrityunjaya Mantra,Vedic,65.76,26.76,10.0,14.0,10.0,5.0,26.76,39.0
+Purusha Suktam,Vedic,46.76,13.36,10.0,16.0,2.4,5.0,13.36,33.4
+Sri Suktam,Vedic,54.8,21.0,10.0,14.0,4.8,5.0,21.0,33.8
+Narayana Suktam,Vedic,47.68,16.28,10.0,14.0,2.4,5.0,16.28,31.4
+Durga Suktam,Vedic,51.8,18.0,10.0,14.0,4.8,5.0,18.0,33.8
+Shri Rudram Chamakam,Vedic,53.56,17.76,10.0,16.0,4.8,5.0,17.76,35.8
+Kanda Sashti Kavasam,Tamil Stotram,27.12,10.72,3.0,9.0,2.4,2.0,10.72,16.4
+Thiruppavai,Tamil Stotram,41.4,20.2,3.0,9.0,7.2,2.0,20.2,21.2
+Thiruvempavai,Tamil Stotram,37.2,18.4,3.0,9.0,4.8,2.0,18.4,18.8
+Vinayagar Agaval,Tamil Stotram,33.56,17.16,3.0,9.0,2.4,2.0,17.16,16.4
+Abhirami Andhadhi,Tamil Stotram,44.96,23.76,3.0,9.0,7.2,2.0,23.76,21.2
+Siva Puranam,Tamil Stotram,29.92,13.52,3.0,9.0,2.4,2.0,13.52,16.4
+Muthu Kumara Swami,Tamil Stotram,28.6,12.2,3.0,9.0,2.4,2.0,12.2,16.4
+Aditya Hridayam Tamil,Tamil Stotram,32.2,15.8,3.0,9.0,2.4,2.0,15.8,16.4
+Maa Baglamukhi Mantra,Shakta Tantric,66.6,27.6,10.0,14.0,10.0,5.0,27.6,39.0
+Niggun Chabad,Jewish,40.08,21.28,3.0,9.0,4.8,2.0,21.28,18.8
+Kaddish Prayer,Jewish,39.88,16.48,3.0,16.0,2.4,2.0,16.48,23.4
+Chandi Path,Shakta Tantric,54.2,20.4,10.0,14.0,4.8,5.0,20.4,33.8
+Om Hreem Kleem Tripura Mantra,Shakta Tantric,57.92,25.92,3.0,14.0,10.0,5.0,25.92,32.0
+Namo Amituofo,Buddhist,52.52,26.52,3.0,9.0,10.0,4.0,26.52,26.0
+Om Mani Padme Hum,Buddhist,53.36,27.36,3.0,9.0,10.0,4.0,27.36,26.0
+Subhanallah Dhikr,Islamic,41.92,20.72,3.0,9.0,7.2,2.0,20.72,21.2
+Al-Fatiha Recitation,Islamic,40.32,21.52,3.0,9.0,4.8,2.0,21.52,18.8
+Kyrie Eleison Byzantine,Christian,51.68,23.48,3.0,16.0,7.2,2.0,23.48,28.2
+Ave Maria Rosary,Christian,50.28,26.28,3.0,9.0,10.0,2.0,26.28,24.0
+Shema Yisrael,Jewish,35.2,18.8,3.0,9.0,2.4,2.0,18.8,16.4
+Gregorian Kyrie,Christian,43.12,24.32,3.0,9.0,4.8,2.0,24.32,18.8
+Japji Sahib,Sikhism,32.96,16.56,3.0,9.0,2.4,2.0,16.56,16.4
+Mool Mantar 108,Sikhism,60.88,36.88,3.0,9.0,10.0,2.0,36.88,24.0
+Kirtan Asa Di Var,Sikhism,31.44,15.04,3.0,9.0,2.4,2.0,15.04,16.4
+Qawwali Ya Ali Madad,Sufism,30.48,14.08,3.0,9.0,2.4,2.0,14.08,16.4
+Zikr Allah Hu,Sufism,50.28,26.28,3.0,9.0,10.0,2.0,26.28,24.0
+Sufi Whirling Chant Mevlevi,Sufism,39.92,23.52,3.0,9.0,2.4,2.0,23.52,16.4
+Gathas Ahunavaiti,Zoroastrian,46.88,30.48,3.0,9.0,2.4,2.0,30.48,16.4
+Yasna Ha 28,Zoroastrian,46.88,30.48,3.0,9.0,2.4,2.0,30.48,16.4
+Ashem Vohu 108,Zoroastrian,64.0,40.0,3.0,9.0,10.0,2.0,40.0,24.0
+Jesus Prayer Hesychast,Greek Orthodox,58.0,34.0,3.0,9.0,10.0,2.0,34.0,24.0
+Trisagion Byzantine,Greek Orthodox,50.08,26.68,3.0,16.0,2.4,2.0,26.68,23.4
+Akathist Hymn Theotokos,Greek Orthodox,33.44,17.04,3.0,9.0,2.4,2.0,17.04,16.4
+Om Ma Tri Mu Ye Sa Le Du,Tibetan Bon,56.24,32.24,3.0,9.0,10.0,2.0,32.24,24.0
+Bon Tantric Drum Chant,Tibetan Bon,43.24,26.84,3.0,9.0,2.4,2.0,26.84,16.4
+Sang Offering Chant,Tibetan Bon,37.2,20.8,3.0,9.0,2.4,2.0,20.8,16.4
+Ngoma Healing Drum Chant,African Traditional,36.0,19.6,3.0,9.0,2.4,2.0,19.6,16.4
+Bwiti Mvet Chant,African Traditional,39.0,22.6,3.0,9.0,2.4,2.0,22.6,16.4
+San Bushman Healing Song,African Traditional,28.8,12.4,3.0,9.0,2.4,2.0,12.4,16.4
+Lakota Sun Dance Song,Native American,38.6,22.2,3.0,9.0,2.4,2.0,22.2,16.4
+Navajo Night Chant Yeibichai,Native American,48.44,25.04,3.0,16.0,2.4,2.0,25.04,23.4
+Inuit Throat Singing Katajjaq,Native American,36.4,20.0,3.0,9.0,2.4,2.0,20.0,16.4
+Taoist Morning Liturgy Huangjing,Taoist,47.88,29.48,3.0,9.0,2.4,4.0,29.48,18.4
+Taoist Fu Breathing Meditation,Taoist,49.04,23.04,3.0,9.0,10.0,4.0,23.04,26.0
+Taoist Incense Offering Chant,Taoist,50.4,25.0,3.0,16.0,2.4,4.0,25.0,25.4
+Norito Oharae Kotoba,Shinto,48.08,31.68,3.0,9.0,2.4,2.0,31.68,16.4
+Kagura Sacred Dance Chant,Shinto,45.88,29.48,3.0,9.0,2.4,2.0,29.48,16.4
+Shinto Tamagushi Offering Chant,Shinto,48.16,31.76,3.0,9.0,2.4,2.0,31.76,16.4
+Shiva Damroo Dhwani Bhajan,Bhajan,53.12,24.32,3.0,16.0,4.8,5.0,24.32,28.8
+Om Namah Shivaya Tabla Kirtan,Bhajan,57.72,23.72,3.0,16.0,10.0,5.0,23.72,34.0
+Carnatic Bhajan Tiruppugazh Mridangam,Tamil Stotram,36.4,20.0,3.0,9.0,2.4,2.0,20.0,16.4
+Aarti Jai Jagdish with Full Orchestra,Bhajan,41.64,15.24,3.0,16.0,2.4,5.0,15.24,26.4
+Shiva Puja Abhisheka Damroo Chant,Stotram,40.84,22.04,3.0,9.0,4.8,2.0,22.04,18.8
+Nyahbinghi Groundation Chant,Rastafari,26.44,10.04,3.0,9.0,2.4,2.0,10.04,16.4
+Rastafari Psalm Chant Ises,Rastafari,39.0,22.6,3.0,9.0,2.4,2.0,22.6,16.4
+Rastafari Reasoning Circle Chant,Rastafari,45.0,21.6,3.0,16.0,2.4,2.0,21.6,23.4
+Lalita Sahasranamam,Stotram,29.04,12.64,3.0,9.0,2.4,2.0,12.64,16.4
+Argala Stotram,Stotram,52.56,33.76,3.0,9.0,4.8,2.0,33.76,18.8
+Nirvana Shatakam,Stotram,53.24,34.44,3.0,9.0,4.8,2.0,34.44,18.8
+Soundarya Lahari,Stotram,40.92,24.52,3.0,9.0,2.4,2.0,24.52,16.4
+Achyutashtakam,Stotram,40.92,24.52,3.0,9.0,2.4,2.0,24.52,16.4
+Govind Bolo Hari Gopal Bolo,Bhajan,53.84,19.84,3.0,16.0,10.0,5.0,19.84,34.0
+Shree Ram Jai Ram Kirtan,Bhajan,53.96,19.96,3.0,16.0,10.0,5.0,19.96,34.0
+Hey Nath Tere Kitne Nam,Bhajan,50.92,24.52,3.0,16.0,2.4,5.0,24.52,26.4
+Jai Ho Ganesh Deva,Bhajan,39.24,12.84,3.0,16.0,2.4,5.0,12.84,26.4
+Meenakshi Pancharatnam,Tamil Stotram,40.92,24.52,3.0,9.0,2.4,2.0,24.52,16.4
+Kavadi Chindu Murugan,Tamil Stotram,37.04,20.64,3.0,9.0,2.4,2.0,20.64,16.4
+Sivan Vandana Tamil,Tamil Stotram,46.68,30.28,3.0,9.0,2.4,2.0,30.28,16.4
+Bhu Suktam,Vedic,61.24,34.44,3.0,14.0,4.8,5.0,34.44,26.8
+Rudra Suktam,Vedic,61.4,34.6,3.0,14.0,4.8,5.0,34.6,26.8
+Pali Metta Sutta,Buddhist,36.8,18.4,3.0,9.0,2.4,4.0,18.4,18.4
+Surah Ar Rahman Recitation,Islamic,40.92,24.52,3.0,9.0,2.4,2.0,24.52,16.4
+Yoruba Orisha Praise Song,African Traditional,36.72,20.32,3.0,9.0,2.4,2.0,20.32,16.4
+Yatha Ahu Vairyo Prayer,Zoroastrian,48.64,27.44,3.0,9.0,7.2,2.0,27.44,21.2
+Polyeleos Psalm 134 Byzantine,Greek Orthodox,49.32,25.92,3.0,16.0,2.4,2.0,25.92,23.4
+Zhang Zhung Mantra A,Tibetan Bon,64.0,40.0,3.0,9.0,10.0,2.0,40.0,24.0
+Heart Sutra Chinese Chanting,Taoist,40.4,19.6,3.0,9.0,4.8,4.0,19.6,20.8
+Sukhmani Sahib Paath,Sikhism,44.32,27.92,3.0,9.0,2.4,2.0,27.92,16.4
+Rumi Ney Chant Beshno,Sufism,40.92,24.52,3.0,9.0,2.4,2.0,24.52,16.4
+Hopi Rain Song,Native American,39.24,22.84,3.0,9.0,2.4,2.0,22.84,16.4
+Rastafari Groundation Psalm,Rastafari,45.72,22.32,3.0,16.0,2.4,2.0,22.32,23.4
+Mi-kagura Shinto Court Music,Shinto,46.48,30.08,3.0,9.0,2.4,2.0,30.08,16.4

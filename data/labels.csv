@@ -1,0 +1,107 @@
+title,recitation_style,tala,raga,is_monotone,repetition_count,repetition_type,single_duration_min,cumulative_exposure_min,log_repetition,japa_class,is_melodic,is_rhythmic_chant,is_call_response,freq_cluster_432hz,freq_cluster_528hz,meditative_onset,rhythm_entrainment,alpha_wave_induction,beta_wave_induction,harmonic_resonance,low_frequency_grounding
+Aditya Hridayam,monotone_recitation,free_metre,,1,1,occasion_based,20.0,20,0.6931,single,0,0,0,1,0,1,0,0,0,0,0
+Vishnu Sahasranamam,melodic,Adi,Madhyamavati,0,1,occasion_based,25.0,25,0.6931,single,1,0,0,0,0,0,1,0,0,1,0
+Shiva Tandava Stotram,rhythmic_chant,Rupak,,0,1,occasion_based,5.0,5,0.6931,single,0,1,0,0,0,0,0,0,1,0,0
+Hanuman Chalisa,rhythmic_chant,Chaupai,,0,7,fixed_count,7.0,49,2.0794,medium_rep,0,1,0,0,0,1,1,0,0,0,0
+Mahalakshmi Ashtakam,monotone_recitation,free_metre,,1,1,occasion_based,5.0,5,0.6931,single,0,0,0,0,1,1,0,0,0,0,0
+Durga Saptashloki,monotone_recitation,free_metre,,1,7,fixed_count,10.0,70,2.0794,medium_rep,0,0,0,0,0,1,0,0,0,0,1
+Lingashtakam,monotone_recitation,free_metre,,1,1,occasion_based,3.0,3,0.6931,single,0,0,0,1,0,1,0,0,0,0,0
+Rudrashtakam,melodic,Adi,Bhairavi,0,1,occasion_based,5.0,5,0.6931,single,1,0,0,0,0,1,0,0,0,1,0
+Kanakadhara Stotram,melodic,free_metre,Kambhoji,0,1,occasion_based,8.0,8,0.6931,single,1,0,0,0,1,0,0,0,0,1,0
+Shiv Panchakshara Stotram,monotone_recitation,free_metre,,1,5,fixed_count,3.0,15,1.7918,single,0,0,0,0,0,1,0,0,0,0,1
+Om Jai Jagdish Hare,rhythmic_chant,Keherwa,Bhairavi,0,1,occasion_based,5.0,5,0.6931,single,0,1,0,0,0,1,1,0,0,0,0
+Achyutam Keshavam,melodic,Adi,Yaman,0,108,fixed_count,3.0,324,4.6913,high_rep,1,0,0,0,0,1,0,0,0,1,0
+Raghupati Raghava Raja Ram,rhythmic_chant,Keherwa,,0,108,fixed_count,2.0,216,4.6913,high_rep,0,1,0,0,0,1,1,0,0,0,0
+Jai Ganesh Jai Ganesh Deva,rhythmic_chant,Keherwa,,0,1,occasion_based,4.0,4,0.6931,single,0,1,0,0,0,0,1,0,1,0,0
+Vaishnav Jan To,melodic,Adi,Bhairavi,0,1,occasion_based,5.0,5,0.6931,single,1,0,0,0,0,1,0,1,0,1,0
+Jai Ambe Gauri,rhythmic_chant,Keherwa,Kafi,0,1,occasion_based,6.0,6,0.6931,single,0,1,0,0,0,0,1,0,1,0,0
+Mere Ghat Ko Banao,melodic,Adi,Bhairavi,0,1,occasion_based,4.0,4,0.6931,single,1,0,0,0,0,1,0,1,0,1,0
+Gayatri Mantra,monotone_recitation,Gayatri_chandas,,1,108,fixed_count,20.0,2160,4.6913,high_rep,0,0,0,1,0,1,0,1,0,0,0
+Mahamrityunjaya Mantra,monotone_recitation,Anushtubh_chandas,,1,108,fixed_count,15.0,1620,4.6913,high_rep,0,0,0,0,0,1,0,1,0,0,1
+Purusha Suktam,call_response,free_metre,,0,1,occasion_based,10.0,10,0.6931,single,0,0,1,0,0,0,1,0,0,1,0
+Sri Suktam,monotone_recitation,free_metre,,1,16,fixed_count,12.0,192,2.8332,medium_rep,0,0,0,0,1,1,0,0,0,0,0
+Narayana Suktam,monotone_recitation,free_metre,,1,1,occasion_based,8.0,8,0.6931,single,0,0,0,0,0,1,0,0,0,1,0
+Durga Suktam,monotone_recitation,free_metre,,1,7,fixed_count,6.0,42,2.0794,medium_rep,0,0,0,0,0,1,0,0,0,0,1
+Shri Rudram Chamakam,call_response,free_metre,,0,11,fixed_count,45.0,495,2.4849,medium_rep,0,0,1,0,0,0,1,1,0,1,0
+Kanda Sashti Kavasam,rhythmic_chant,Adi,Saveri,0,1,occasion_based,15.0,15,0.6931,single,0,1,0,0,0,0,1,0,1,0,0
+Thiruppavai,melodic,Adi,Shankarabharanam,0,30,fixed_count,60.0,1800,3.434,medium_rep,1,0,0,0,0,1,0,0,0,1,0
+Thiruvempavai,melodic,Misra_Chapu,Bhairavi,0,20,fixed_count,40.0,800,3.0445,medium_rep,1,0,0,0,0,1,0,0,0,1,0
+Vinayagar Agaval,monotone_recitation,free_metre,,1,1,occasion_based,5.0,5,0.6931,single,0,0,0,1,0,1,0,0,0,0,0
+Abhirami Andhadhi,melodic,Adi,Kalyani,0,100,fixed_count,90.0,9000,4.6151,medium_rep,1,0,0,0,0,0,0,1,0,1,0
+Siva Puranam,melodic,Adi,Panthuvarali,0,1,occasion_based,15.0,15,0.6931,single,1,0,0,0,0,1,0,0,0,1,1
+Muthu Kumara Swami,melodic,Adi,Hamsadhwani,0,1,occasion_based,8.0,8,0.6931,single,1,0,0,0,0,1,0,0,0,1,0
+Aditya Hridayam Tamil,monotone_recitation,free_metre,,1,1,occasion_based,20.0,20,0.6931,single,0,0,0,1,0,1,0,0,0,0,0
+Maa Baglamukhi Mantra,monotone_recitation,free_metre,,1,125000,fixed_count,0.5,62500,11.7361,high_rep,0,0,0,1,0,1,0,0,0,0,1
+Niggun Chabad,melodic,free_metre,,0,10,fixed_count,5.0,50,2.3979,medium_rep,1,0,0,0,0,1,0,1,0,1,0
+Kaddish Prayer,call_response,free_metre,Ahavah Rabbah,0,3,fixed_count,4.0,12,1.3863,single,0,0,1,0,0,0,1,1,0,0,1
+Chandi Path,monotone_recitation,free_metre,,1,9,fixed_count,90.0,810,2.3026,medium_rep,0,0,0,0,0,1,0,0,0,0,1
+Om Hreem Kleem Tripura Mantra,monotone_recitation,free_metre,,1,108,fixed_count,0.4,43,4.6913,high_rep,0,0,0,1,0,1,0,0,0,0,1
+Namo Amituofo,monotone_recitation,free_metre,,1,108,fixed_count,20.0,2160,4.6913,high_rep,0,0,0,0,0,1,0,0,0,0,0
+Om Mani Padme Hum,monotone_recitation,free_metre,,1,108,fixed_count,15.0,1620,4.6913,high_rep,0,0,0,0,0,1,0,1,0,0,0
+Subhanallah Dhikr,rhythmic_chant,free_metre,,0,99,fixed_count,10.0,990,4.6052,medium_rep,0,1,0,0,0,1,1,1,0,0,0
+Al-Fatiha Recitation,melodic,free_metre,Hijaz,0,17,fixed_count,1.0,17,2.8904,medium_rep,1,0,0,0,0,1,0,1,0,1,0
+Kyrie Eleison Byzantine,call_response,free_metre,,0,40,fixed_count,3.0,120,3.7136,medium_rep,0,0,1,0,0,1,0,0,0,1,0
+Ave Maria Rosary,melodic,free_metre,,0,150,fixed_count,20.0,3000,5.0173,high_rep,1,0,0,0,0,0,1,1,0,1,0
+Shema Yisrael,monotone_recitation,free_metre,Ahavah Rabbah,1,2,fixed_count,3.0,6,1.0986,single,0,0,0,0,0,1,0,1,0,0,1
+Gregorian Kyrie,melodic,free_metre,,0,9,fixed_count,4.0,36,2.3026,medium_rep,1,0,0,0,0,0,0,0,0,1,1
+Japji Sahib,monotone_recitation,free_metre,,1,1,occasion_based,20.0,20,0.6931,single,0,0,0,1,0,1,0,0,0,0,0
+Mool Mantar 108,monotone_recitation,free_metre,,1,108,fixed_count,1.5,162,4.6913,high_rep,0,0,0,0,0,0,0,0,0,0,0
+Kirtan Asa Di Var,melodic,Chautal,Asa,0,1,occasion_based,45.0,45,0.6931,single,1,0,0,0,0,0,1,0,0,1,0
+Qawwali Ya Ali Madad,rhythmic_chant,Dadra,Kafi,0,1,continuous_loop,30.0,30,0.6931,single,0,1,0,0,0,0,0,0,0,0,0
+Zikr Allah Hu,rhythmic_chant,free_metre,,0,500,continuous_loop,0.5,250,6.2166,high_rep,0,1,0,0,0,0,0,0,0,0,0
+Sufi Whirling Chant Mevlevi,melodic,free_metre,,0,1,occasion_based,60.0,60,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
+Gathas Ahunavaiti,monotone_recitation,free_metre,,1,1,occasion_based,25.0,25,0.6931,single,0,0,0,0,0,0,0,0,0,0,1
+Yasna Ha 28,monotone_recitation,free_metre,,1,1,occasion_based,30.0,30,0.6931,single,0,0,0,0,0,0,0,0,0,0,1
+Ashem Vohu 108,monotone_recitation,free_metre,,1,108,fixed_count,0.5,54,4.6913,high_rep,0,0,0,0,0,1,0,0,0,0,0
+Jesus Prayer Hesychast,monotone_recitation,free_metre,,1,3000,continuous_loop,0.1,300,8.0067,high_rep,0,0,0,0,0,0,0,0,0,0,0
+Trisagion Byzantine,call_response,free_metre,,0,3,fixed_count,5.0,15,1.3863,single,0,0,1,0,0,0,0,0,0,0,0
+Akathist Hymn Theotokos,melodic,free_metre,,0,1,occasion_based,60.0,60,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
+Om Ma Tri Mu Ye Sa Le Du,monotone_recitation,free_metre,,1,108,fixed_count,1.5,162,4.6913,high_rep,0,0,0,0,0,0,0,0,0,0,0
+Bon Tantric Drum Chant,rhythmic_chant,free_metre,,0,1,continuous_loop,40.0,40,0.6931,single,0,1,0,0,0,0,0,0,0,0,0
+Sang Offering Chant,monotone_recitation,free_metre,,1,1,occasion_based,25.0,25,0.6931,single,0,0,0,0,0,0,0,0,0,0,0
+Ngoma Healing Drum Chant,rhythmic_chant,polyrhythmic,,0,1,continuous_loop,120.0,120,0.6931,single,0,1,0,0,0,0,0,0,0,0,0
+Bwiti Mvet Chant,melodic,free_metre,,0,1,continuous_loop,480.0,480,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
+San Bushman Healing Song,melodic,free_metre,,0,1,continuous_loop,90.0,90,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
+Lakota Sun Dance Song,rhythmic_chant,quarter_beat_drum,,0,4,fixed_count,15.0,60,1.6094,single,0,1,0,0,0,0,0,0,0,0,0
+Navajo Night Chant Yeibichai,call_response,free_metre,,0,1,occasion_based,90.0,90,0.6931,single,0,0,1,0,0,0,0,0,0,0,0
+Inuit Throat Singing Katajjaq,rhythmic_chant,breath_rhythm,,0,1,occasion_based,5.0,5,0.6931,single,0,1,0,0,0,0,0,0,0,0,0
+Taoist Morning Liturgy Huangjing,monotone_recitation,free_metre,,1,1,occasion_based,30.0,30,0.6931,single,0,0,0,0,0,1,0,0,0,0,0
+Taoist Fu Breathing Meditation,monotone_recitation,breath_rhythm,,1,108,fixed_count,1.0,108,4.6913,high_rep,0,0,0,0,0,0,0,0,0,0,0
+Taoist Incense Offering Chant,call_response,free_metre,,0,1,occasion_based,20.0,20,0.6931,single,0,0,1,0,0,0,0,0,0,0,0
+Norito Oharae Kotoba,monotone_recitation,free_metre,,1,1,occasion_based,15.0,15,0.6931,single,0,0,0,0,0,0,0,0,0,0,0
+Kagura Sacred Dance Chant,melodic,free_metre,,0,1,occasion_based,30.0,30,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
+Shinto Tamagushi Offering Chant,monotone_recitation,free_metre,,1,1,occasion_based,10.0,10,0.6931,single,0,0,0,0,0,0,0,0,0,0,0
+Shiva Damroo Dhwani Bhajan,rhythmic_chant,Dadra,Bhairavi,0,11,fixed_count,8.0,88,2.4849,medium_rep,0,1,0,0,0,0,0,0,0,0,0
+Om Namah Shivaya Tabla Kirtan,rhythmic_chant,Teentaal,Kafi,0,108,fixed_count,0.5,54,4.6913,high_rep,0,1,0,0,0,0,0,0,0,0,0
+Carnatic Bhajan Tiruppugazh Mridangam,rhythmic_chant,Khanda Chapu,Sankarabharanam,0,1,occasion_based,12.0,12,0.6931,single,0,1,0,0,0,0,0,0,0,0,0
+Aarti Jai Jagdish with Full Orchestra,melodic,Keherwa,Bhairavi,0,1,occasion_based,7.0,7,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
+Shiva Puja Abhisheka Damroo Chant,monotone_recitation,free_metre,,1,11,fixed_count,20.0,220,2.4849,medium_rep,0,0,0,0,0,0,0,0,0,0,0
+Nyahbinghi Groundation Chant,rhythmic_chant,nyahbinghi_3drum,,0,1,continuous_loop,240.0,240,0.6931,single,0,1,0,0,0,0,0,0,0,0,0
+Rastafari Psalm Chant Ises,melodic,free_metre,,0,1,occasion_based,15.0,15,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
+Rastafari Reasoning Circle Chant,call_response,free_metre,,0,1,occasion_based,60.0,60,0.6931,single,0,0,1,0,0,0,0,0,0,0,0
+Lalita Sahasranamam,melodic,Adi,Madhyamavati,0,1,occasion_based,45.0,45,0.6931,single,1,0,0,0,0,1,0,0,0,1,0
+Argala Stotram,monotone_recitation,free_metre,,1,7,fixed_count,8.0,56,2.0794,medium_rep,0,0,0,0,0,0,0,0,0,0,1
+Nirvana Shatakam,monotone_recitation,free_metre,,1,11,fixed_count,5.0,55,2.4849,medium_rep,0,0,0,0,0,1,0,0,0,0,0
+Soundarya Lahari,melodic,free_metre,,0,1,occasion_based,35.0,35,0.6931,single,1,0,0,0,0,0,0,0,0,1,0
+Achyutashtakam,melodic,free_metre,,0,1,occasion_based,7.0,7,0.6931,single,1,0,0,0,0,0,0,0,0,1,0
+Govind Bolo Hari Gopal Bolo,rhythmic_chant,Keherwa,Kafi,0,108,fixed_count,0.5,54,4.6913,high_rep,0,1,0,0,0,0,1,0,0,0,0
+Shree Ram Jai Ram Kirtan,rhythmic_chant,Teentaal,Bhairavi,0,108,fixed_count,0.5,54,4.6913,high_rep,0,1,0,0,0,0,1,0,0,0,0
+Hey Nath Tere Kitne Nam,melodic,Dadra,Yaman,0,1,occasion_based,10.0,10,0.6931,single,1,0,0,0,0,1,0,0,0,0,0
+Jai Ho Ganesh Deva,melodic,Keherwa,Bhairavi,0,1,occasion_based,7.0,7,0.6931,single,1,0,0,0,0,0,0,0,0,1,0
+Meenakshi Pancharatnam,melodic,Adi,Mukhari,0,1,occasion_based,8.0,8,0.6931,single,1,0,0,0,0,0,0,0,0,1,0
+Kavadi Chindu Murugan,rhythmic_chant,Khanda Chapu,Shanmukhapriya,0,1,occasion_based,10.0,10,0.6931,single,0,1,0,0,0,0,1,0,1,0,0
+Sivan Vandana Tamil,monotone_recitation,free_metre,,1,1,occasion_based,15.0,15,0.6931,single,0,0,0,0,0,0,0,0,0,0,1
+Bhu Suktam,monotone_recitation,free_metre,,1,11,fixed_count,12.0,132,2.4849,medium_rep,0,0,0,0,0,0,0,0,0,0,1
+Rudra Suktam,monotone_recitation,free_metre,,1,11,fixed_count,10.0,110,2.4849,medium_rep,0,0,0,0,0,0,0,0,0,0,1
+Pali Metta Sutta,monotone_recitation,free_metre,,1,3,fixed_count,15.0,45,1.3863,single,0,0,0,0,0,1,0,0,0,0,0
+Surah Ar Rahman Recitation,melodic,free_metre,,0,1,occasion_based,20.0,20,0.6931,single,1,0,0,0,0,0,0,0,0,1,0
+Yoruba Orisha Praise Song,rhythmic_chant,polyrhythmic,,0,1,continuous_loop,20.0,20,0.6931,single,0,1,0,0,0,0,1,0,1,0,0
+Yatha Ahu Vairyo Prayer,monotone_recitation,free_metre,,1,21,fixed_count,1.0,21,3.091,medium_rep,0,0,0,0,0,0,0,0,0,0,0
+Polyeleos Psalm 134 Byzantine,call_response,free_metre,,0,1,occasion_based,25.0,25,0.6931,single,0,0,1,0,0,0,0,0,0,1,0
+Zhang Zhung Mantra A,monotone_recitation,free_metre,,1,108,fixed_count,0.5,54,4.6913,high_rep,0,0,0,0,0,0,0,0,0,0,0
+Heart Sutra Chinese Chanting,monotone_recitation,free_metre,,1,7,fixed_count,5.0,35,2.0794,medium_rep,0,0,0,0,0,0,0,0,0,0,0
+Sukhmani Sahib Paath,monotone_recitation,free_metre,,1,1,occasion_based,90.0,90,0.6931,single,0,0,0,0,0,1,0,0,0,0,0
+Rumi Ney Chant Beshno,melodic,free_metre,,0,1,occasion_based,20.0,20,0.6931,single,1,0,0,0,0,0,0,0,0,1,0
+Hopi Rain Song,rhythmic_chant,free_metre,,0,4,fixed_count,8.0,32,1.6094,single,0,1,0,0,0,0,1,0,0,0,0
+Rastafari Groundation Psalm,call_response,free_metre,,0,1,occasion_based,30.0,30,0.6931,single,0,0,1,0,0,0,0,0,0,0,0
+Mi-kagura Shinto Court Music,melodic,free_metre,,0,1,occasion_based,30.0,30,0.6931,single,1,0,0,0,0,0,0,0,0,0,0
