@@ -18,7 +18,7 @@ version: "1.0.0"
 date-released: "2025-05-11"
 license: "MIT"
 repository-code: "https://github.com/[YOUR-USERNAME]/CNCM"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "https://zenodo.org/records/20132709"
 keywords:
   - neuroacoustics
   - EEG
