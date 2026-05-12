@@ -1,5 +1,3 @@
-# CNCM-Indian-Neuroacoustic-Model
-Cross-Cultural Neuroacoustic Computational Model: 19 devotional traditions, 106 tracks, acoustic EEG simulation, cardiac safety protocol, Pancha Indriya scoring — India 266M affected. Adjunctive framework. All EEG simulated.
 # Cross-Cultural Neuroacoustic Computational Model (CNCM)
 
 **19 Devotional Traditions · 106 Tracks · India 1.477 Billion · ~266 Million Affected**
