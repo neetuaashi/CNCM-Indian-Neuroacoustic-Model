@@ -148,8 +148,8 @@ If you use this code or data, please cite:
                19 Devotional Traditions, 106 Tracks},
   year      = {2025},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://zenodo.org/record/XXXXXXX}
+  doi       = {10.5281/zenodo.20132709,
+  url       = {(https://doi.org/10.5281/zenodo.20132709)}
 }
 ```
 
