@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it using the metadata below."
+type: software
+title: "Cross-Cultural Neuroacoustic Computational Model (CNCM): 19 Devotional Traditions, 106 Tracks"
+abstract: >
+  The CNCM is a modular computational pipeline integrating acoustic feature extraction,
+  rule-based EEG simulation, repetition dose-response modelling, tympanic membrane
+  biomechanics, olfactory-trigeminal modulation, Pancha Indriya five-sense scoring,
+  cardiac safety protocols, and stress-depression subtype prescriptions across 106
+  devotional tracks from 19 traditions. All EEG data are simulated; clinical scores
+  are model predictions constituting falsifiable hypotheses for empirical validation.
+authors:
+  - family-names: "[LAST NAME]"
+    given-names: "[FIRST NAME]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "[Institution, Department, Country]"
+version: "1.0.0"
+date-released: "2025-05-11"
+license: "MIT"
+repository-code: "https://github.com/[YOUR-USERNAME]/CNCM"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - neuroacoustics
+  - EEG
+  - computational neuroscience
+  - devotional music
+  - Indian traditions
+  - cross-cultural neuroscience
+  - cardiac safety
+  - Pancha Indriya
+  - depression
+  - anxiety
+  - music therapy
+  - tympanic membrane
+  - spectral centroid
+  - repetition dose-response
+references:
+  - type: article
+    title: "An Indian-Origin Neuroacoustic Computational Framework Extended Cross-Culturally"
+    authors:
+      - family-names: "[LAST NAME]"
+        given-names: "[FIRST NAME]"
+    journal: "[Journal name — to be completed upon acceptance]"
+    year: 2025
+    doi: "[manuscript DOI — to be completed upon acceptance]"
